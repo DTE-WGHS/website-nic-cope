@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #9cc2e5;
+	padding: 0;
+	margin: 0
+}
+#wrapper {
+	max-width: 100%;
+	margin: 0 auto;
+}
+header {
+	background-color: #9cc2e5;
+	height: 100px
+}
+nav {
+	background-color: #9cc2e5;
+	height: 50px
+}
+footer {
+	background-color: #bfbfbf;
+	height: 20px;
+}
+
+h2 {
+	border-style: solid;
+	 }
+
+
+body {
+  margin: 0;
+  font-family:"Times New Roman";
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #9cc2e5;
+}
+
+.topnav a {
+  float: center;
+  color:#FEFEFE;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+
